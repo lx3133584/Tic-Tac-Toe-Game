@@ -3,4 +3,4 @@
 ``
 npm start
 ``
-![preview](../public/preview)
+![preview](./public/preview)
